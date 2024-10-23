@@ -6,7 +6,7 @@ Este proyecto consta de un **backend** desarrollado en **Laravel** y un **fronte
 
 Puedes encontrar el código fuente del frontend en el siguiente repositorio de GitHub:
 
-[APIBACKEND - GitHub](https://github.com/JCUSDeveloper/FrontendAngular.git)
+[FrontendAngular - GitHub](https://github.com/JCUSDeveloper/FrontendAngular.git)
 
 ## Requisitos Previos
 
