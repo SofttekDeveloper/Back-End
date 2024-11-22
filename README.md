@@ -43,14 +43,30 @@ Puedes encontrar el código fuente del frontend en el siguiente repositorio de G
    ```bash
    composer install
    ```
+2. **Copiar el archivo .env.example como .env**:
 
-2. **Iniciar el servidor de desarrollo de Laravel**:
+    - **En Unix/Linux/Mac:**
+     ```bash
+     cp .env.example .env
+     ```
+
+   - **En Windows (cmd):**
+     ```cmd
+     copy .env.example .env
+     ```
+
+   - **En Windows (PowerShell):**
+     ```powershell
+     Copy-Item .env.example .env
+     ```
+
+3. **Iniciar el servidor de desarrollo de Laravel**:
 
    ```bash
    php artisan serve
    ```
 
-3. **Navegar a la API**:
+4. **Navegar a la API**:
 
    El backend servirá los endpoints de la API. Puedes acceder a ellos en: [http://127.0.0.1:8000/elementos](http://127.0.0.1:8000/elementos)
 
