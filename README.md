@@ -45,17 +45,17 @@ Puedes encontrar el código fuente del frontend en el siguiente repositorio de G
    ```
 2. **Copiar el archivo .env.example como .env**:
 
-    - **En Unix/Linux/Mac:**
+     **En Unix/Linux/Mac:**
      ```bash
      cp .env.example .env
      ```
 
-   - **En Windows (cmd):**
+    **En Windows (cmd):**
      ```cmd
      copy .env.example .env
      ```
 
-   - **En Windows (PowerShell):**
+    **En Windows (PowerShell):**
      ```powershell
      Copy-Item .env.example .env
      ```
